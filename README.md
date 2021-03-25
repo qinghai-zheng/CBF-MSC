@@ -1,6 +1,8 @@
 # CBF-MSC
 Source codes of the work "Constrained Bilinear Factorization Multi-view Subspace Clustering" published in Knowledge-Based Systems 2020.
 
+![avatar](./CBF-MSC_Framework.png)
+
 Some common used multi-view datasets and a demo-file of BBC-Sport are included in this repository.
 
 If you find this repository useful in your research, please cite our works as follows, thanks.

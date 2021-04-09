@@ -3,6 +3,8 @@ Source codes of the work "Constrained Bilinear Factorization Multi-view Subspace
 
 <img src="./CBF-MSC_Framework.png" width="80%">
 
+The MATLAB R2018a is used here!
+
 Some common used multi-view datasets and a demo-file of BBC-Sport are included in this repository.
 
 If you find this repository useful in your research, please cite our works as follows, thanks.

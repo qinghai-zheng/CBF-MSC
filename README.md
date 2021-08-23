@@ -7,7 +7,7 @@ The MATLAB R2018a is used here!
 
 Some common used multi-view datasets and a demo-file of BBC-Sport are included in this repository.
 
-If you find this repository useful in your research, please cite our works as follows, thanks.
+If you find this repository useful in your research, please cite our work as follows, thanks.
 
 @article\{CBF-MSC,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;title=\{Constrained bilinear factorization multi-view subspace clustering\},<br/>
